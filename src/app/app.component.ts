@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 
 // This is a test
+// This is another test
 
 @Component({
   selector: 'app-root',
